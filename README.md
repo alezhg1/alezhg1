@@ -6,7 +6,7 @@
 
 ---
 
-## [ ABOUT ME ]
+## ABOUT ME
 
 * **Game Development:** Unreal Engine 5.
 * **System Programming:** Building highly detailed automated systems and robust scripts in Python.
@@ -15,7 +15,7 @@
 
 ---
 
-## [ TECH STACK & CORE TOOLING ]
+## TECH STACK & CORE TOOLING
 
 * **Languages:** C++, Python, JavaScript / TypeScript (Node.js)
 * **Frontend & Build Utilities:** React, Vite, TailwindCSS, HTML5 / CSS3
@@ -24,7 +24,7 @@
 
 ---
 
-## [ FEATURED PROJECTS ]
+## FEATURED PROJECTS
 
 ### Gargantua — Interactive Black Hole Ray Tracer
 * **Core:** Advanced numerical simulation of gravitational lensing near a Schwarzschild/Kerr black hole.
@@ -38,7 +38,7 @@
 
 ---
 
-## [ RESEARCH & CONFERENCES ]
+## RESEARCH & CONFERENCES
 
 * **IT Championship "Digital Era of Transport"** — Development of advanced logistics optimization models and routing algorithms.
 * **Silaedr Research Conference** — Presentation on interactive numerical simulation methods and cross-platform browser engine rendering.
@@ -46,9 +46,8 @@
 
 ---
 
-## 📬 [ CONTACTS ]
+## 📬 CONTACTS
 
-* **Telegram:** [@newzellandtg](https://t.me)
-* **GitHub Profile:** [://github.com](https://://github.com)
+* **Telegram:** [@newzellandtg](https://t.me/@newzellandtg)
 
 ---
