@@ -54,7 +54,6 @@
 * **Space Research Institute of the Russian Academy of Sciences (IKI RAN)** — Participant at the Conference of Young Scientists, presenting interactive numerical simulation of black hole gravitational lensing via ray tracing.
 * **MISIS University (81st Science Days)** — 🥈 Prize Winner for research and production of the interactive ray-tracing simulation of black hole gravitational lensing.
 * **IT Championship "Digital Era of Transport"** — 🏆 Two-time Hackathon Winner for designing advanced transport logistics, optimization frameworks, and custom routing systems.
-* **Silaedr Research Conference** — Presented development pipelines for interactive numerical modeling and lightweight cross-platform cross-browser engine compilation.
 * **Academic Contests:** Regular participant in competitive programming, mathematics, and high-performance computation Olympiads.
 
 ---
