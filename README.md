@@ -58,7 +58,7 @@
 
 ---
 
-## 📬 [ CONTACTS ]
+##  CONTACTS
 
 * **Telegram:** [@newzellandtg](https://t.me/@newzellandtg)
 
